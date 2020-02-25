@@ -96,10 +96,4 @@ body {
   width: 100px;
   border-bottom: 1px solid #D6CE15;
 }
-
-@media screen and (max-width: 580px) {
-  .About .J_content {
-    width: 10px;
-  }
-}
 /*# sourceMappingURL=main.css.map */
