@@ -84,6 +84,10 @@ body {
   margin-bottom: 10px;
 }
 
+.zumos a {
+  width: 50px;
+}
+
 .About {
   background-color: #131313;
 }
