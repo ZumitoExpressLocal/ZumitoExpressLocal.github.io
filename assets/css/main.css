@@ -44,6 +44,7 @@ body {
 }
 
 .P_Header .carousel-inner .carousel-caption {
+  z-index: 1;
   position: absolute;
   left: 10%;
   top: 20%;
@@ -63,6 +64,10 @@ body {
 .P_Header .carousel-inner .carousel-caption h1 {
   color: #D6CE15;
   font-family: 'Permanent Marker', 'sans-serif';
+}
+
+.P_Header a {
+  z-index: 2;
 }
 
 .zumos {
